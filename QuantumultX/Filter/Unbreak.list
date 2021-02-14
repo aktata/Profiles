@@ -41,3 +41,5 @@ DOMAIN,msg.umeng.com,DIRECT
 DOMAIN,msg.umengcloud.com,DIRECT
 # > Apple
 DOMAIN-SUFFIX,me.com,DIRECT
+# > AOL
+DOMAIN-SUFFIX,aol.com,DIRECT
