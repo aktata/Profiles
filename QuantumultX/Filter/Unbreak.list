@@ -17,10 +17,10 @@ DOMAIN,dl.google.com,DIRECT
 DOMAIN,dl.l.google.com,DIRECT
 DOMAIN,update.googleapis.com,DIRECT
 DOMAIN,translate.googleapis.com,Global
-# >> Google Fonts API
+# > Google Fonts API
 DOMAIN,fonts.googleapis.com,DIRECT
 DOMAIN,fonts.gstatic.com,DIRECT
-# >> Firebase Cloud Messaging
+# > Firebase Cloud Messaging
 DOMAIN,mtalk.google.com,DIRECT
 DOMAIN,alt1-mtalk.google.com,DIRECT
 DOMAIN,alt2-mtalk.google.com,DIRECT
@@ -43,3 +43,5 @@ DOMAIN,msg.umengcloud.com,DIRECT
 DOMAIN-SUFFIX,me.com,DIRECT
 # > AOL
 DOMAIN-SUFFIX,aol.com,DIRECT
+# > Xiaomi
+DOMAIN-SUFFIX,mi.com,DIRECT
