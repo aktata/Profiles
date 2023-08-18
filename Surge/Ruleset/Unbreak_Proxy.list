@@ -1,0 +1,4 @@
+# Unbreak_Proxy
+# > Steam
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN,api.steampowered.com
