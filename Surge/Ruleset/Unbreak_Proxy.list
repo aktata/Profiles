@@ -2,3 +2,4 @@
 # > Steam
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN,api.steampowered.com
+DOMAIN,wildcard.com.cn
